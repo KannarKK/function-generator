@@ -13,8 +13,7 @@ A function generator is usually a piece of electronic test equipment or software
 - Misc:  DAC 0808 (all in one card kit of RVCE )
 
 ##The front end UI:
-Inline-style: 
-![alt text](https://github.com/KannarKK/function-generator/blob/master/UI.png "Logo Title Text 1")
+![alt text](https://github.com/KannarKK/function-generator/blob/master/UI.png "User Interface")
 
 
 
